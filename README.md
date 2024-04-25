@@ -2,9 +2,6 @@
 
 # Better-News Article Classifier
 
-## Deploid site link;
-
-https://better-news-article-classifier-evlvsjjqderjzga7ciifcq.streamlit.app/
 
 This Streamlit application is designed to classify news articles into different categories using machine learning models. The classification is based on the text content of the articles.
 
